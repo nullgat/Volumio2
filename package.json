@@ -41,6 +41,7 @@
     "musicmetadata": "^2.0.5",
     "njstrace": "0.0.2",
     "node-schedule": "^1.2.0",
+    "node-ssdp": "^3.2.1",
     "node-uuid": "^1.4.7",
     "nodetools": "^1.0.0",
     "onoff": "^1.1.2",
